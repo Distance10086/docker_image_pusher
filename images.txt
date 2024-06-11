@@ -13,3 +13,4 @@ nyanmisaka/jellyfin
 amilys/embyserver
 nevinee/qbittorrent
 jxxghp/moviepilot
+ht944/rabbitpro
