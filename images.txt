@@ -1,17 +1,17 @@
-alpine
+alpine:latest
 python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
-xhofe/alist
-whyour/qinglong
-vaultwarden/server
-rustdesk/rustdesk-server
-kingmo888/rustdesk-api-server
-jc21/nginx-proxy-manager
-jc21/mariadb-aria
-nyanmisaka/jellyfin
-amilys/embyserver
-nevinee/qbittorrent
-jxxghp/moviepilot
-ht944/rabbitpro
+xhofe/alist:latest
+whyour/qinglong:latest
+vaultwarden/server:latest
+rustdesk/rustdesk-server:latest
+kingmo888/rustdesk-api-server:latest
+jc21/nginx-proxy-manager:latest
+jc21/mariadb-aria:latest
+nyanmisaka/jellyfin:latest
+amilys/embyserver:latest
+nevinee/qbittorrent:latest
+jxxghp/moviepilot:latest
+ht944/rabbitpro:latest
