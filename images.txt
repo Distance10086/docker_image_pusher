@@ -7,3 +7,9 @@ xhofe/alist
 whyour/qinglong
 vaultwarden/server
 rustdesk/rustdesk-server
+jc21/nginx-proxy-manager
+jc21/mariadb-aria
+nyanmisaka/jellyfin
+amilys/embyserver
+nevinee/qbittorrent
+jxxghp/moviepilot
