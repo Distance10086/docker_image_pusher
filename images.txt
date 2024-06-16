@@ -16,3 +16,4 @@ nevinee/qbittorrent:latest
 jxxghp/moviepilot:latest
 ht944/rabbitpro:latest
 dannicool/docker-wechatbot-webhook
+neosmemo/memos:stable
