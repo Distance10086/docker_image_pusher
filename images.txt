@@ -17,3 +17,4 @@ jxxghp/moviepilot:latest
 ht944/rabbitpro:latest
 dannicool/docker-wechatbot-webhook
 neosmemo/memos:stable
+ghcr.io/wg-easy/wg-easy
