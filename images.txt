@@ -17,4 +17,4 @@ jxxghp/moviepilot:latest
 ht944/rabbitpro:latest
 dannicool/docker-wechatbot-webhook
 neosmemo/memos:stable
-repo.nerthus.nl/app/wireguard-dashboard:latest
+wireguard-dashboard:latest
