@@ -9,6 +9,7 @@ vaultwarden/server:latest
 rustdesk/rustdesk-server:latest
 kingmo888/rustdesk-api-server:latest
 jc21/nginx-proxy-manager:latest
+chishin/nginx-proxy-manager-zh:release
 jc21/mariadb-aria:latest
 nyanmisaka/jellyfin:latest
 amilys/embyserver:latest
