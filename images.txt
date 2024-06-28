@@ -20,3 +20,4 @@ dannicool/docker-wechatbot-webhook
 neosmemo/memos:stable
 ghcr.io/wg-easy/wg-easy:latest
 ghcr.io/mhsanaei/3x-ui:latest
+ghcr.io/ajnart/homarr:latest
