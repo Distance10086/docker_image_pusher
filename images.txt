@@ -21,3 +21,4 @@ neosmemo/memos:stable
 ghcr.io/wg-easy/wg-easy:latest
 ghcr.io/mhsanaei/3x-ui:latest
 ghcr.io/ajnart/homarr:latest
+docker.mirrors.imoyuapp.win/xubiaolin/zerotier-planet:latest
