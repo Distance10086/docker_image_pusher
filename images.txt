@@ -24,3 +24,4 @@ ghcr.io/mhsanaei/3x-ui:latest
 ghcr.io/ajnart/homarr:latest
 docker.mirrors.imoyuapp.win/xubiaolin/zerotier-planet:latest
 v1ll4n/yak-bridge
+nvidia/cuda:12.6.2-cudnn-devel-ubuntu22.04
